@@ -79,5 +79,5 @@ theme: even
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com:misakashiny/misakashiny.github.io.git
+  repo: https://github.com/misakashiny/misakashiny.github.io.git
   branch: master
